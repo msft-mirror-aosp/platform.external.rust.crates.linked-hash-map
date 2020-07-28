@@ -1,0 +1,17 @@
+name: "linked-hash-map"
+description:
+    "A HashMap wrapper that holds key-value pairs in insertion order"
+
+third_party {
+  url {
+    type: HOMEPAGE
+    value: "https://crates.io/crates/linked-hash-map"
+  }
+  url {
+    type: GIT
+    value: "https://github.com/contain-rs/linked-hash-map"
+  }
+  version: "0.5.3"
+  last_upgrade_date { year: 2020 month: 6 day: 11 }
+  license_type: NOTICE
+}
