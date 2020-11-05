@@ -2,32 +2,39 @@
 {
   "presubmit": [
     {
-      "name": "linked-hash-map_host_test_src_lib",
-      "host": true
+      "host": true,
+      "name": "linked-hash-map_host_test_src_lib"
     },
     {
       "name": "linked-hash-map_device_test_src_lib"
     },
     {
-      "name": "linked-hash-map_host_test_tests_heapsize",
-      "host": true
+      "host": true,
+      "name": "linked-hash-map_host_test_tests_heapsize"
     },
     {
       "name": "linked-hash-map_device_test_tests_heapsize"
     },
     {
-      "name": "linked-hash-map_host_test_tests_serde",
-      "host": true
+      "host": true,
+      "name": "linked-hash-map_host_test_tests_serde"
     },
     {
       "name": "linked-hash-map_device_test_tests_serde"
     },
     {
-      "name": "linked-hash-map_host_test_tests_test",
-      "host": true
+      "host": true,
+      "name": "linked-hash-map_host_test_tests_test"
     },
     {
       "name": "linked-hash-map_device_test_tests_test"
+    },
+    {
+      "host": true,
+      "name": "lru-cache_host_test_src_lib"
+    },
+    {
+      "name": "lru-cache_device_test_src_lib"
     }
   ]
 }
