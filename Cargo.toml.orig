@@ -1,7 +1,7 @@
 [package]
 
 name = "linked-hash-map"
-version = "0.5.3"
+version = "0.5.4"
 license = "MIT/Apache-2.0"
 description = "A HashMap wrapper that holds key-value pairs in insertion order"
 authors = [
@@ -11,7 +11,7 @@ authors = [
 
 repository = "https://github.com/contain-rs/linked-hash-map"
 homepage = "https://github.com/contain-rs/linked-hash-map"
-documentation = "https://contain-rs.github.io/linked-hash-map/linked_hash_map"
+documentation = "https://docs.rs/linked-hash-map"
 keywords = ["data-structures"]
 readme = "README.md"
 exclude = ["/.travis.yml", "/deploy-docs.sh"]
