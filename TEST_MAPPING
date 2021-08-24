@@ -5,16 +5,16 @@
       "name": "linked-hash-map_device_test_src_lib"
     },
     {
-      "name": "lru-cache_device_test_src_lib"
-    },
-    {
-      "name": "linked-hash-map_device_test_tests_test"
+      "name": "linked-hash-map_device_test_tests_heapsize"
     },
     {
       "name": "linked-hash-map_device_test_tests_serde"
     },
     {
-      "name": "linked-hash-map_device_test_tests_heapsize"
+      "name": "linked-hash-map_device_test_tests_test"
+    },
+    {
+      "name": "lru-cache_device_test_src_lib"
     }
   ]
 }
