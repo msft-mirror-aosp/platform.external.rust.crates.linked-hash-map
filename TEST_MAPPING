@@ -5,11 +5,6 @@
       "path": "external/rust/crates/lru-cache"
     }
   ],
-  "postsubmit": [
-    {
-      "name": "linked-hash-map_test_tests_test"
-    }
-  ],
   "presubmit": [
     {
       "name": "linked-hash-map_test_tests_test"
